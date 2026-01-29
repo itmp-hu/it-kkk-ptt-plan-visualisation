@@ -1,0 +1,122 @@
+{
+  "profession": {
+    "name": "Informatikai rendszer- és alkalmazásüzemletető technikus",
+    "slug": "informatikai-rendszer-es-alkalmazas-uzemelteto-technikus",
+    "totalHours": 1541,
+    "description": "Az informatikai rendszer- és alkalmazásüzemletető technikus képzés szakmai területei"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "name": "Hálózatok és szerverek",
+      "shortName": "Hálózatok és szerverek",
+      "hours": 616,
+      "percentage": 40,
+      "color": "#3B82F6",
+      "icon": "network",
+      "category": "core",
+      "subtopicsFile": "halozatok-es-szerverek.md",
+      "keywords": [
+        "hálózati alapok",
+        "szerver üzemeltetés",
+        "TCP/IP",
+        "Linux",
+        "Windows Server"
+      ],
+      "responsible": "Markovich László"
+    },
+    {
+      "id": 2,
+      "name": "Felhőtechnológiák és DevOps",
+      "shortName": "Felhőtechnológiák és DevOps",
+      "hours": 384,
+      "percentage": 25,
+      "color": "#10B981",
+      "icon": "cloud",
+      "category": "core",
+      "subtopicsFile": "felhotechnologiak-es-devops.md",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "responsible": "Csőke János, Hidvégi János"
+    },
+    {
+      "id": 3,
+      "name": "Hálózatbiztonság",
+      "shortName": "Hálózatbiztonság",
+      "hours": 154,
+      "percentage": 10,
+      "color": "#EF4444",
+      "icon": "shield",
+      "category": "core",
+      "subtopicsFile": "halozatbiztonsag.md",
+      "keywords": [
+        "tűzfal",
+        "VPN",
+        "titkosítás",
+        "biztonsági audit",
+        "védelmi stratégiák"
+      ],
+      "responsible": "Markovich László"
+    },
+    {
+      "id": 4,
+      "name": "Adabázisok kezelése és üzemeltetése",
+      "shortName": "Adatbázisok",
+      "hours": 154,
+      "percentage": 10,
+      "color": "#F59E0B",
+      "icon": "database",
+      "category": "core",
+      "subtopicsFile": "adabazisok-kezelese-es-uzemeltetese.md",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "adatbázis adminisztráció",
+        "backup",
+        "restore"
+      ],
+      "responsible": "Kerepes Tamás"
+    },
+    {
+      "id": 5,
+      "name": "Szakmai idegennyelv",
+      "shortName": "Idegennyelv",
+      "hours": 78,
+      "percentage": 5,
+      "color": "#6B7280",
+      "icon": "book",
+      "category": "general",
+      "subtopicsFile": "szakmai-idegennyelv.md",
+      "keywords": [
+        "angol",
+        "dokumentáció",
+        "kommunikáció",
+        "szakmai nyelvhasználat"
+      ],
+      "responsible": "Nincs"
+    },
+    {
+      "id": 6,
+      "name": "Szakmai szabadsáv",
+      "shortName": "Szabadsáv",
+      "hours": 154,
+      "percentage": 10,
+      "color": "#14B8A6",
+      "icon": "puzzle",
+      "category": "flexible",
+      "subtopicsFile": "szakmai-szabadsav.md",
+      "keywords": [
+        "specializáció",
+        "projektek",
+        "önálló tanulás",
+        "szakmai fejlesztés"
+      ],
+      "responsible": "Nincs"
+    }
+  ]
+}

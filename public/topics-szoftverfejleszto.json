@@ -1,0 +1,128 @@
+{
+  "profession": {
+    "name": "Szoftverfejlesztő- és tesztelő technikus",
+    "slug": "szoftverfejleszto-es-tesztelo-technikus",
+    "totalHours": 1541,
+    "description": "A szoftverfejlesztő és -tesztelő technikus képzés szakmai területei"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "name": "Professzionális szoftverfejlesztés",
+      "shortName": "Szoftverfejlesztés",
+      "hours": 354,
+      "percentage": 20,
+      "color": "#3B82F6",
+      "icon": "code",
+      "category": "core",
+      "subtopicsFile": "professzionalis-szoftverfejlesztes.md",
+      "keywords": [
+        "programozás",
+        "OOP",
+        "clean code",
+        "tervezési minták",
+        "SOLID"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fullstack webfejlesztés",
+      "shortName": "Webfejlesztés",
+      "hours": 554,
+      "percentage": 35,
+      "color": "#10B981",
+      "icon": "globe",
+      "category": "core",
+      "subtopicsFile": "webes-fejlesztes-frontend-es-backend.md",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "API",
+        "REST"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Adatbázis-kezelés és adatmodellezés",
+      "shortName": "Adatbázisok",
+      "hours": 139,
+      "percentage": 10,
+      "color": "#F59E0B",
+      "icon": "database",
+      "category": "core",
+      "subtopicsFile": "adatbazis-kezeles-es-adatmodellezes.md",
+      "keywords": [
+        "SQL",
+        "NoSQL",
+        "adatmodell",
+        "normalizálás"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Szoftvertesztelés",
+      "shortName": "Tesztelés",
+      "hours": 169,
+      "percentage": 15,
+      "color": "#EF4444",
+      "icon": "check-circle",
+      "category": "core",
+      "subtopicsFile": "szoftverteszteles-manualis-es-automatizalt.md",
+      "keywords": [
+        "unit teszt",
+        "integráció",
+        "automatizálás",
+        "QA"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "AI eszközök és alkalmazásuk a fejlesztésben",
+      "shortName": "AI eszközök",
+      "hours": 62,
+      "percentage": 10,
+      "color": "#8B5CF6",
+      "icon": "cpu",
+      "category": "modern",
+      "subtopicsFile": "ai-eszkozok-es-alkalmazasuk-a-fejlesztesben.md",
+      "keywords": [
+        "GitHub Copilot",
+        "ChatGPT",
+        "prompt engineering"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Szakmai idegennyelv",
+      "shortName": "Idegennyelv",
+      "hours": 78,
+      "percentage": 5,
+      "color": "#6B7280",
+      "icon": "book",
+      "category": "general",
+      "subtopicsFile": "szakmai-idegennyelv.md",
+      "keywords": [
+        "angol",
+        "dokumentáció",
+        "kommunikáció"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Szakmai szabadsáv",
+      "shortName": "Szabadsáv",
+      "hours": 154,
+      "percentage": 10,
+      "color": "#14B8A6",
+      "icon": "puzzle",
+      "category": "flexible",
+      "subtopicsFile": "szakmai-szabadsav.md",
+      "keywords": [
+        "specializáció",
+        "projektek",
+        "önálló tanulás"
+      ]
+    }
+  ]
+}
